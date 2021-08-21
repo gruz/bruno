@@ -1,5 +1,5 @@
 {
-    "name": "gruz/bruno",
+    "name": "optimus/bruno",
     "autoload": {
         "psr-4": {
             "Optimus\\Bruno\\": "src/"
